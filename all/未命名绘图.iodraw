@@ -12,7 +12,7 @@
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEQTnkXfGpUXyvv8G1g9-1" target="kEQTnkXfGpUXyvv8G1g9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEQTnkXfGpUXyvv8G1g9-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kEQTnkXfGpUXyvv8G1g9-14">
+        <mxCell id="kEQTnkXfGpUXyvv8G1g9-21" value="备选流1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kEQTnkXfGpUXyvv8G1g9-14">
           <mxGeometry x="-0.0364" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
