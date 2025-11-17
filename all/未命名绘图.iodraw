@@ -12,6 +12,11 @@
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEQTnkXfGpUXyvv8G1g9-1" target="kEQTnkXfGpUXyvv8G1g9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kEQTnkXfGpUXyvv8G1g9-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kEQTnkXfGpUXyvv8G1g9-14">
+          <mxGeometry x="-0.0364" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEQTnkXfGpUXyvv8G1g9-1" target="kEQTnkXfGpUXyvv8G1g9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -51,7 +56,7 @@
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-8" value="&lt;font size=&quot;3&quot;&gt;退卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="565" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kEQTnkXfGpUXyvv8G1g9-9" value="&lt;font size=&quot;3&quot;&gt;插卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kEQTnkXfGpUXyvv8G1g9-9" value="&lt;font size=&quot;3&quot;&gt;吞卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="565" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-10" value="&lt;font size=&quot;3&quot;&gt;无效的卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
