@@ -68,6 +68,11 @@
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEQTnkXfGpUXyvv8G1g9-6" target="kEQTnkXfGpUXyvv8G1g9-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kEQTnkXfGpUXyvv8G1g9-40" value="备选流6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kEQTnkXfGpUXyvv8G1g9-39">
+          <mxGeometry x="0.248" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kEQTnkXfGpUXyvv8G1g9-6" value="&lt;font size=&quot;3&quot;&gt;输入金额&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="100" height="40" as="geometry" />
         </mxCell>
