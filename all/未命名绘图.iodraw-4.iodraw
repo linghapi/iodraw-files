@@ -25,8 +25,8 @@
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6-k1Vclr4G0GBIT0VR4-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="V6-k1Vclr4G0GBIT0VR4-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
