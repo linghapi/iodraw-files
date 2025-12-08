@@ -1,83 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="833" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="aUYsjWgMuBa77JXUrI_b">
+    <mxGraphModel dx="708" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="fQO0IbtCylheAbuVgIUl-8" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;div&gt;TicketManagement&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="190" width="210" height="176" as="geometry">
-            <mxRectangle x="140" y="190" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-9" value="+&amp;nbsp; &amp;nbsp; locateUser()&amp;nbsp;&lt;div&gt;+&amp;nbsp; &amp;nbsp; locateAdmin()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; findAirport()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; searchFlight()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; bookTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; cancleTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; browserTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; getCredit()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; setCredit()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; TicketManagement()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fQO0IbtCylheAbuVgIUl-8">
-          <mxGeometry y="26" width="210" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-12" value="《entity》&lt;div&gt;User&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="60" width="140" height="196" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-15" value="&lt;div&gt;&amp;nbsp;- userID: String&lt;/div&gt;&lt;div&gt;&amp;nbsp;- password: String&lt;/div&gt;&lt;div&gt;&amp;nbsp;- info: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ register()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ searchMyFlight()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ bookMyTicket()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ cancleMyTicket()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ browserTicket()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ User()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fQO0IbtCylheAbuVgIUl-12">
-          <mxGeometry y="26" width="140" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-9" target="fQO0IbtCylheAbuVgIUl-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-18" value="&lt;div&gt;Administrator&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="300" width="140" height="126" as="geometry">
-            <mxRectangle x="330" y="300" width="100" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-19" value="&lt;div&gt;- adminID: String&lt;/div&gt;&lt;div&gt;- password: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ arrangeAirport()&lt;/div&gt;&lt;div&gt;+ Administrator()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fQO0IbtCylheAbuVgIUl-18">
-          <mxGeometry y="26" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-9" target="fQO0IbtCylheAbuVgIUl-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="637" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQO0IbtCylheAbuVgIUl-31">
-          <mxGeometry x="-0.7873" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-38" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQO0IbtCylheAbuVgIUl-31">
-          <mxGeometry x="0.7897" y="-9" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Airport&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- airportID: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- location: String&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addFlight()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp; &amp;nbsp; + deleteFlight()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp; &amp;nbsp; + findFlight()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp; &amp;nbsp; + Airport()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="500" width="190" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-9" target="fQO0IbtCylheAbuVgIUl-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Ticket&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- seatID: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- price: double&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ setUser()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ Ticket()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="637" y="101" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-15" target="fQO0IbtCylheAbuVgIUl-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-36" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQO0IbtCylheAbuVgIUl-28">
-          <mxGeometry x="0.839" y="-9" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fQO0IbtCylheAbuVgIUl-29" target="fQO0IbtCylheAbuVgIUl-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Flight&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- flightID: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- startPos: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- endPos: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- startTime: Datetime&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- endTime: Datetime&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ changeRoute()&lt;br&gt;+ changeTime()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Flight()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="637" y="485" width="190" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-33" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="241" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="458" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-35" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="168" width="30" height="30" as="geometry" />
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w9mhj6fgi5EHAj6xyr3e-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
