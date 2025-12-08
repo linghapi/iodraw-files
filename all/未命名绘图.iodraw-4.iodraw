@@ -52,10 +52,10 @@
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-9" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6-k1Vclr4G0GBIT0VR4-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V6-k1Vclr4G0GBIT0VR4-10" value="选课" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6-k1Vclr4G0GBIT0VR4-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V6-k1Vclr4G0GBIT0VR4-11" value="成绩管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6-k1Vclr4G0GBIT0VR4-12" target="V6-k1Vclr4G0GBIT0VR4-11">
