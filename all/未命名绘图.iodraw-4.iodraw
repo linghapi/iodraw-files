@@ -20,7 +20,7 @@
           <mxGeometry x="40" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="300" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="30" height="60" as="geometry" />
