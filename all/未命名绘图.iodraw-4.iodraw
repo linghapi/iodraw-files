@@ -37,7 +37,7 @@
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6-k1Vclr4G0GBIT0VR4-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V6-k1Vclr4G0GBIT0VR4-4" value="教学计划管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6-k1Vclr4G0GBIT0VR4-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
