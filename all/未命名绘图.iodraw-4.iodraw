@@ -9,7 +9,7 @@
             <mxRectangle x="140" y="190" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQO0IbtCylheAbuVgIUl-9" value="+&amp;nbsp;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fQO0IbtCylheAbuVgIUl-8">
+        <mxCell id="fQO0IbtCylheAbuVgIUl-9" value="+&amp;nbsp; &amp;nbsp; locateUser()&amp;nbsp;&lt;div&gt;+&amp;nbsp; &amp;nbsp; locateAdmin()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; findAirport()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; searchFlight()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; bookTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; cancleTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; browserTicket()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; getCredit()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; setCredit()&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp; TicketManagement()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fQO0IbtCylheAbuVgIUl-8">
           <mxGeometry y="26" width="210" height="150" as="geometry" />
         </mxCell>
       </root>
