@@ -28,6 +28,9 @@
         <mxCell id="w9mhj6fgi5EHAj6xyr3e-2" value="操作终端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="520" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w9mhj6fgi5EHAj6xyr3e-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9mhj6fgi5EHAj6xyr3e-3" target="w9mhj6fgi5EHAj6xyr3e-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w9mhj6fgi5EHAj6xyr3e-3" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="180" width="30" height="60" as="geometry" />
         </mxCell>
