@@ -13,10 +13,10 @@
         <mxCell id="w9mhj6fgi5EHAj6xyr3e-3" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w9mhj6fgi5EHAj6xyr3e-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w9mhj6fgi5EHAj6xyr3e-4" value="索要数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w9mhj6fgi5EHAj6xyr3e-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w9mhj6fgi5EHAj6xyr3e-5" value="付款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9mhj6fgi5EHAj6xyr3e-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
