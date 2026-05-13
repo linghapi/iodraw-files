@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="wJcvNkPE_5Q2rL7HgNZ5">
-    <mxGraphModel dx="1089" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2360" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,83 +34,41 @@
         <mxCell id="HkBp-ck_5P-AtP8CnXGG-10" value="CSV增量存储" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="327" y="1171" width="128" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-1" target="HkBp-ck_5P-AtP8CnXGG-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-1" target="HkBp-ck_5P-AtP8CnXGG-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-2" target="HkBp-ck_5P-AtP8CnXGG-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-2" target="HkBp-ck_5P-AtP8CnXGG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-13" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-3" target="HkBp-ck_5P-AtP8CnXGG-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="122" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-13" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-3" target="HkBp-ck_5P-AtP8CnXGG-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-14" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-3" target="HkBp-ck_5P-AtP8CnXGG-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-14" value="否" style="startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-3" target="HkBp-ck_5P-AtP8CnXGG-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-4" target="HkBp-ck_5P-AtP8CnXGG-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="122" y="508" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.2;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-4" target="HkBp-ck_5P-AtP8CnXGG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-6" target="HkBp-ck_5P-AtP8CnXGG-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-16" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-6" target="HkBp-ck_5P-AtP8CnXGG-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.2;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-6" target="HkBp-ck_5P-AtP8CnXGG-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="411" y="508" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-17" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.2;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-6" target="HkBp-ck_5P-AtP8CnXGG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-7" target="HkBp-ck_5P-AtP8CnXGG-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="267" y="797" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.22;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-7" target="HkBp-ck_5P-AtP8CnXGG-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-19" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-8" target="HkBp-ck_5P-AtP8CnXGG-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-19" value="通过" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-8" target="HkBp-ck_5P-AtP8CnXGG-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-9" target="HkBp-ck_5P-AtP8CnXGG-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="327" y="1146" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-9" target="HkBp-ck_5P-AtP8CnXGG-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.99;entryY=0.83;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-10" target="HkBp-ck_5P-AtP8CnXGG-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="574" y="1146" />
-              <mxPoint x="574" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-21" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.99;entryY=0.83;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-10" target="HkBp-ck_5P-AtP8CnXGG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HkBp-ck_5P-AtP8CnXGG-22" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-8" target="HkBp-ck_5P-AtP8CnXGG-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="486" y="797" />
-              <mxPoint x="486" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HkBp-ck_5P-AtP8CnXGG-22" value="不通过" style="startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=0.84;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HkBp-ck_5P-AtP8CnXGG-8" target="HkBp-ck_5P-AtP8CnXGG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
