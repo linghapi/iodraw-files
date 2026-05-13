@@ -14,10 +14,10 @@
           <mxGeometry x="339" y="217" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="HkBp-ck_5P-AtP8CnXGG-4" value="搜索请求与响应处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="434" width="204" height="49" as="geometry" />
+          <mxGeometry x="225" y="411" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HkBp-ck_5P-AtP8CnXGG-5" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="274" y="434" width="92" height="49" as="geometry" />
+          <mxGeometry x="10" y="362" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HkBp-ck_5P-AtP8CnXGG-6" value="请求成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="207" y="533" width="119" height="119" as="geometry" />
